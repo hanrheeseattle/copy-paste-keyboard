@@ -40,7 +40,7 @@ Software:
 ![Top](build-images/circuitboard-top.jpg)
 
 * Bottom view
-![Bottom](build-images/circuitbaord-bottom.jpg)
+![Bottom](build-images/circuitboard-bottom.jpg)
 
 * Assembled in case
 ![InCase](build-images/assembled-in-case.jpg)
